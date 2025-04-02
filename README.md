@@ -7,6 +7,9 @@
 ![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ## Overview
+
+OWNER:- Saurabh Raj 
+
 The Automated Legal Document Analysis Platform is a powerful web application that automates the laborious process of analyzing legal documents. By leveraging cutting-edge technologies such as Next.js, NLP, and machine learning models, our platform extracts relevant information and identifies potential risks from legal documents. It empowers users to understand complex contract clauses, avoid potential losses, and make informed decisions when signing contracts.
 
 <img src="https://github.com/OssamaLouati/Legal-AI_Project/assets/92301300/7437f373-bb88-4925-ba5a-8f76145fba0c" width="1000px" />
