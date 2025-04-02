@@ -12,6 +12,8 @@ The Automated Legal Document Analysis Platform is a powerful web application tha
 <img src="https://github.com/OssamaLouati/Legal-AI_Project/assets/92301300/7437f373-bb88-4925-ba5a-8f76145fba0c" width="1000px" />
 
 
+ OWNER:- Saurabh Raj 
+
 ## Key Features
 - 📃 **Automated Document Analysis**: Our platform streamlines the manual process of analyzing legal documents, saving time and effort.
 - 📖 **Reading Comprehension Model**: We have developed and evaluated a reading comprehension model based on the SQuAD dataset, allowing users to extract information directly from the documents.
