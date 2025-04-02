@@ -1,0 +1,40 @@
+{
+    "0": [
+        {
+            "text": "UNION DENTAL CORP.,",
+            "probability": 0.4897991983301492,
+            "start_logit": 3.7121334075927734,
+            "end_logit": 3.7794039249420166
+        },
+        {
+            "text": "Dr. George D. Green (the \"Business Affiliate\") and UNION DENTAL CORP.,",
+            "probability": 0.12155245885145,
+            "start_logit": 2.318483829498291,
+            "end_logit": 3.7794039249420166
+        },
+        {
+            "text": "UNION DENTAL CORP., a Florida corporation (\"UDC\")",
+            "probability": 0.11937644550011438,
+            "start_logit": 3.7121334075927734,
+            "end_logit": 2.367690324783325
+        },
+        {
+            "text": "UNION DENTAL CORP., a Florida corporation (\"UDC\") (collectively, Business Affiliate and UDC may be referred to collectively as the \"Parties\" and singularly as a (\"Party\").",
+            "probability": 0.1042962767603354,
+            "start_logit": 3.7121334075927734,
+            "end_logit": 2.2326440811157227
+        },
+        {
+            "text": "(collectively, Business Affiliate and UDC may be referred to collectively as the \"Parties\" and singularly as a (\"Party\").",
+            "probability": 0.09915726624490605,
+            "start_logit": 3.661604881286621,
+            "end_logit": 2.2326440811157227
+        },
+        {
+            "text": "",
+            "probability": 0.0658183543130449,
+            "start_logit": 2.936718463897705,
+            "end_logit": 2.547722101211548
+        }
+    ]
+}
